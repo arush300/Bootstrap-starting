@@ -1,2 +1,2 @@
 # Bootstrap-starting
-I develop this web page with help of Bootstraf
+I develop this web page with help of Bootstrap
